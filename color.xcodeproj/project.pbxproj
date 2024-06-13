@@ -13,6 +13,7 @@
 		87A1AECB2C1B5F9000A5909A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 87A1AECA2C1B5F9000A5909A /* Base */; };
 		87A1AECD2C1B5F9100A5909A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87A1AECC2C1B5F9100A5909A /* Assets.xcassets */; };
 		87A1AED02C1B5F9100A5909A /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 87A1AECF2C1B5F9100A5909A /* Base */; };
+		87A1AEDA2C1B600E00A5909A /* ColorViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A1AED92C1B600E00A5909A /* ColorViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		87A1AECC2C1B5F9100A5909A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		87A1AECF2C1B5F9100A5909A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87A1AED12C1B5F9100A5909A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87A1AED92C1B600E00A5909A /* ColorViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				87A1AEC32C1B5F9000A5909A /* AppDelegate.swift */,
 				87A1AEC52C1B5F9000A5909A /* SceneDelegate.swift */,
 				87A1AEC72C1B5F9000A5909A /* ViewController.swift */,
+				87A1AED92C1B600E00A5909A /* ColorViewController.swift */,
 				87A1AEC92C1B5F9000A5909A /* Main.storyboard */,
 				87A1AECC2C1B5F9100A5909A /* Assets.xcassets */,
 				87A1AECE2C1B5F9100A5909A /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				87A1AEC82C1B5F9000A5909A /* ViewController.swift in Sources */,
 				87A1AEC42C1B5F9000A5909A /* AppDelegate.swift in Sources */,
+				87A1AEDA2C1B600E00A5909A /* ColorViewController.swift in Sources */,
 				87A1AEC62C1B5F9000A5909A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
